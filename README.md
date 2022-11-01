@@ -46,7 +46,9 @@ Example of some of the dashboards:
 
 
 # [Project 5: Cats Vs Dogs in US Project Overview](https://public.tableau.com/app/profile/nurulhuda.binte.sulaiman/viz/CatsVSDogsinUS/Percentagetable_1) 
-*
+* This dataset is taken from Tableau resources, it has the population and ownership of dogs and cats by household broken down by state in US
+* Using Tableau to find the number of ownership between cats and dogs in each state and found that California has the most for cats and Texas has the most for dogs
+* Created a percentage table to determine for each state, the percenatges of households that owns cats and/or dogs
 
 ![Ownership Bar Graph](https://user-images.githubusercontent.com/113968512/199173924-490efb7a-6564-4688-9b15-b4c32a498e4e.png)
 ![Percentage table](https://user-images.githubusercontent.com/113968512/199173925-4a847e4a-ccdf-44d0-8591-96677d27e531.png)
