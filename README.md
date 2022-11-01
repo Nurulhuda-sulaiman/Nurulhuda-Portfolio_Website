@@ -10,25 +10,25 @@ Nurulhuda's data analytics project project
 * 
 
 [Tableau Visulization](https://public.tableau.com/app/profile/nurulhuda.binte.sulaiman/viz/CapstoneBellabeatcasestudy/Title)
-![Insight_Active](https://github.com/Nurulhuda-sulaiman/Nurulhuda-Portfolio_Website/blob/main/Images/Insights_%20Active%20Days%20%26%20Dates.png)
+![Insight_Active](/Images/Insights_%20Active%20Days%20%26%20Dates.png)
 
 # [Project 2: Citibike Project Overview](https://public.tableau.com/app/profile/nurulhuda.binte.sulaiman/viz/CitibikeTrip_16632250985860/Feb2018) 
 * 
 * 
-![Citibike Dashboard](https://github.com/Nurulhuda-sulaiman/Nurulhuda-Portfolio_Website/blob/main/Images/Feb%202018.png)
+![Citibike Dashboard](/Images/Feb%202018.png)
 
 # [Project 3: Amazon Books Project Overview](https://public.tableau.com/app/profile/nurulhuda.binte.sulaiman/viz/AmazonBooks_16632137720720/Amazonbestbooktitlebyyear_1) 
 *
 *
-![Amazon_Book](https://github.com/Nurulhuda-sulaiman/Nurulhuda-Portfolio_Website/blob/main/Images/Amazon%20best%20book%20title%20by%20year.png)
+![Amazon_Book](/Images/Amazon%20best%20book%20title%20by%20year.png)
 
 # [Project 4: Digital Marketing Dashboard Project Overview](https://public.tableau.com/app/profile/nurulhuda.binte.sulaiman/viz/DigitalMarketingDashboard_16643513702580/Dashboard1) 
 *
-![Digital Marketing Dashboard](https://github.com/Nurulhuda-sulaiman/Nurulhuda-Portfolio_Website/blob/main/Images/Dashboard%201.png)
+![Digital Marketing Dashboard](/Images/Dashboard%201.png)
 
 # [Project 5: Cats Vs Dogs in US Project Overview](https://public.tableau.com/app/profile/nurulhuda.binte.sulaiman/viz/CatsVSDogsinUS/Percentagetable_1) 
 *
-![CatsVSDogs](https://github.com/Nurulhuda-sulaiman/Nurulhuda-Portfolio_Website/blob/main/Images/Ownership%20Bar%20Graph.png)
+![CatsVSDogs](/Images/Ownership%20Bar%20Graph.png)
 
 # [Project 6: Netflix Project Overview]()
 
