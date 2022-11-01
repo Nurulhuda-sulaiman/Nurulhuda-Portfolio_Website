@@ -40,7 +40,10 @@ Example of some of the dashboards:
 
 
 # [Project 4: Digital Marketing Dashboard Project Overview](https://public.tableau.com/app/profile/nurulhuda.binte.sulaiman/viz/DigitalMarketingDashboard_16643513702580/Dashboard1) 
-*
+* This is part of the Coursera Guided Projects, the sample dataset is provided by the course
+* The scenario is to build a digital marketing dashboard of a fictional company that sells outdoor furniture in the US
+* Dashboard states the segment, Website, that is earning the most sales
+* California state has the most sales and firepits has the highest ROI
 
 ![Digital_marketing_dashboard](https://user-images.githubusercontent.com/113968512/199173910-10700a79-6bb7-4388-ab62-8bacdf7c44bd.png)
 
@@ -53,9 +56,3 @@ Example of some of the dashboards:
 ![Ownership Bar Graph](https://user-images.githubusercontent.com/113968512/199173924-490efb7a-6564-4688-9b15-b4c32a498e4e.png)
 ![Percentage table](https://user-images.githubusercontent.com/113968512/199173925-4a847e4a-ccdf-44d0-8591-96677d27e531.png)
 
-
-# [Project 6: Netflix Project Overview]()
-
-
-
-# [Project 7: Airbnb Project Overview]()
